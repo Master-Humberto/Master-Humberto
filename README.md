@@ -1,4 +1,4 @@
-:green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart:
+:green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: 
 
 ### Repositório by Master
 
@@ -26,4 +26,4 @@ Lista possível de expansão ...
   <img src="code.gif" alt="code"/>
 </p>
 
-:green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart:
+:green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: 
