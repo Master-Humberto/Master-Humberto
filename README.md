@@ -13,17 +13,5 @@ Python | JavaScript | HTML | CSS | Node.js | Railway | VHDL | Assembly | NumPy |
 ![Python](python.png) | ![JavaScript](javascript.png) | ![HTML](html.png) | ![CSS](css.png) | ![Node.js](nodejs.png) | ![Railway](railway.png) | ![VHDL](vhdl.png) | ![Assembly](assembly.png) | ![NumPy](numpy.png) | ![Pandas](pandas.png) | ![SciPy](scipy.png) | ![React](react.png)
 
 Lista possível de expansão ...
-### Me sigam no X
-<p align="center">
-  <a href="https://twitter.com/UltimateJitter">
-    <img src="x.png" alt="Twitter" width="100" height="100"/>
-  </a>
-</p>
-
-## 
-
-<p align="center">
-  <img src="code.gif" alt="code"/>
-</p>
 
 :green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: :green_heart: :green_heart::green_heart: :green_heart: :green_heart: 
