@@ -23,4 +23,10 @@ Nele você encontrará todos os projetos desenvolvidos por mim, desde os mais si
 <li>Aprender matemática universitária para competir em olimpíadas de matemática.</li>
 </ul>
 
+### Buddy
+
+Meu buddy é o Gustavo da Costa, que me ajudou sanando várias dúvidas acerca do Inteli. 
+
+<a href = "https://github.com/Gustavo-daCosta"> Gustavo da Costa </a>
+
 :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse: :heartpulse:
