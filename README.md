@@ -6,8 +6,6 @@ Esse é o repositório principal do Master Humberto.
 
 Nele você encontrará todos os projetos desenvolvidos por mim, desde os mais simples até os mais complexos. A partir disso, você poderá ver as minhas áreas de interesse e o meu desenvolvimento como programador. Espero que desfrutem do conteúdo e que possam aprender com ele. (｡♥‿♥｡)
 
-Sou um estusiasta da matemática pura e Machine Learning / Deep learning.
-
 ### Sobre mim
 
 <ul>
